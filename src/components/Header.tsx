@@ -1,7 +1,7 @@
 const links = [
   { href: "#outcomes", label: "Outcomes" },
   { href: "#services", label: "Services" },
-  { href: "#datasentinel", label: "DataSentinel" },
+  { href: "#datasentinel", label: "DataSentinel™" },
   { href: "#experience", label: "Experience" },
   { href: "#contact", label: "Contact" },
 ];

@@ -19,7 +19,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="no-underline hover:text-white"
           >
-            DataSentinel
+            DataSentinel™
           </a>
           <a
             href="https://www.credly.com/users/robert-proffitt"

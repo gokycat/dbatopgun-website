@@ -7,7 +7,7 @@ export function DataSentinel() {
       <div className="pointer-events-none absolute -right-24 top-0 h-80 w-80 rounded-full bg-[radial-gradient(circle,rgba(15,98,254,0.35),transparent_70%)]" />
       <div className="section-inner relative">
         <p className="eyebrow !text-[#8eb6ff]">Featured capability</p>
-        <h2 className="section-title !text-white">DataSentinel</h2>
+        <h2 className="section-title !text-white">DataSentinel™</h2>
         <p className="max-w-2xl text-lg text-white/75">
           A neuro-symbolic governance framework at the mainframe–LLM
           intersection — IBM watsonx and Anthropic Claude advising, deterministic
@@ -18,7 +18,7 @@ export function DataSentinel() {
           <div className="space-y-5 text-[1.02rem] leading-relaxed text-white/78">
             <p>
               Built for enterprises that need AI velocity without surrendering
-              auditability on Db2 systems of record. DataSentinel combines agent
+              auditability on Db2 systems of record. DataSentinel™ combines agent
               orchestration, policy enforcement, and complete audit trails so
               probabilistic models stay inside operational guardrails.
             </p>
